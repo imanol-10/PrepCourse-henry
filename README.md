@@ -1,1 +1,7 @@
-este es una prueba de como modificar mi archivo para guardar en mi repositorio
+<h1>Sistema de registro</h1>
+
+-Estado del proyecto: en construccion.
+
+para ejecutar el sistema, debes poner:
+
+```npm install react```
